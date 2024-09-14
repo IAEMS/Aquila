@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Your Theme Name
 
 A brief description of your theme goes here. This should explain what your theme is about, its main features, and its target audience (e.g., business sites, portfolios, blogs, etc.).
@@ -89,3 +90,7 @@ For advanced users, you can add custom CSS via the customizer's `Additional CSS`
 
 ## License
 This theme is licensed under the GNU General Public License v2.0 or later. For more information, see [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html).
+=======
+# Aquila
+My wordpress theme
+>>>>>>> b3bdc104ea6885c6b494e26c2dbd549861a0c716
